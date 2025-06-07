@@ -32,8 +32,8 @@
 		84C5F3092DF2CBD500EF8F54 = {
 			isa = PBXGroup;
 			children = (
-				84C5F3142DF2CBD500EF8F54 /* WeatherApp */,
 				84C5F3132DF2CBD500EF8F54 /* Products */,
+				84C5F3142DF2CBD500EF8F54 /* WeatherApp */,
 			);
 			sourceTree = "<group>";
 		};
