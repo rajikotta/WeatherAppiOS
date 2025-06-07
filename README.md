@@ -1,0 +1,1 @@
+This is a simple app to fetch and display current weather using SwiftUi, here I have tried to explore the asyn..await mechanism of swift along with @MainActor to execute the api request and update the ui
